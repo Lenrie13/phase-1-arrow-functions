@@ -1,18 +1,4 @@
-// function writePoetry(poem) {
-
-// }
-// const printBook = book => {
-//     // console.log(book); OR
-//     return book;
-// }
-
-// or 
-// // const cookDinner = (Food) => console.log(Food);
-//  or
-// //  const cookDinner = food => food;
-// //  Does not need the return keyword
-// const cookDinner = (food, soup) => [food, soup]; 
-
+// 
 let a = 2000;
 let b = 100;
 
@@ -32,15 +18,3 @@ const add = (c, d) => c + d;
     add(c, d);
 
     
-
-
-
-
-    
-
-
-// function divide (a, b) {
-//     return a/b
-// }
-
-// console.log(divide(2000, 100));
